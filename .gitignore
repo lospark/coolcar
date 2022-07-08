@@ -5,3 +5,5 @@
 *.out
 # js 文件
 wx/miniprogram/**/*.js
+
+node_modules
